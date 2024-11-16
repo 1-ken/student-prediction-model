@@ -1,0 +1,105 @@
+StudentID,HighSchoolGPA,SATScore,ACTScore,PreviousCoursework,Age,Gender,Ethnicity,ParentalEducation,HouseholdIncome,FinancialAid,ExtracurricularActivities,WorkExperience,InstitutionType,ProgramOfStudy,SupportServices,Attendance,Engagement,Enrollment
+1,3.8,1200,25,AP,18,Female,Hispanic,Bachelor's,50000,Yes,Sports,No,Public,Engineering,Yes,95,High,1
+2,3.2,1100,22,Honors,19,Male,White,High School,40000,No,Music,Yes,Private,Arts,No,85,Medium,0
+3,3.5,1300,28,AP,17,Female,Asian,Master's,60000,Yes,Debate,No,Public,Science,Yes,90,High,1
+4,2.8,1000,20,Regular,20,Male,Black,Associate's,30000,Yes,Drama,Yes,Community,Business,Yes,80,Low,0
+5,3.9,1400,30,AP,18,Female,White,Doctorate,70000,No,Volunteer,No,Private,Medicine,Yes,95,High,1
+6,3.0,1050,21,Honors,19,Male,Hispanic,High School,45000,Yes,Sports,Yes,Public,Engineering,No,85,Medium,0
+7,3.4,1250,26,AP,18,Female,Black,Bachelor's,55000,Yes,Music,No,Community,Arts,Yes,90,High,1
+8,2.9,950,19,Regular,21,Male,Asian,Associate's,35000,No,Debate,Yes,Public,Science,No,75,Low,0
+9,3.7,1350,29,AP,17,Female,Hispanic,Master's,65000,Yes,Drama,No,Private,Business,Yes,95,High,1
+10,3.1,1150,23,Honors,19,Male,White,High School,40000,Yes,Volunteer,Yes,Community,Medicine,No,85,Medium,0
+11,3.6,1280,27,AP,18,Female,Asian,Bachelor's,52000,Yes,Sports,No,Public,Engineering,Yes,92,High,1
+12,3.3,1120,24,Honors,20,Male,Black,High School,38000,No,Music,Yes,Private,Arts,No,83,Medium,0
+13,3.4,1200,25,AP,19,Female,White,Master's,55000,Yes,Debate,No,Public,Science,Yes,88,High,1
+14,2.7,980,21,Regular,21,Male,Hispanic,Associate's,32000,Yes,Drama,Yes,Community,Business,Yes,78,Low,0
+15,3.8,1380,31,AP,18,Female,Black,Doctorate,72000,No,Volunteer,No,Private,Medicine,Yes,96,High,1
+16,3.1,1080,22,Honors,19,Male,Asian,High School,46000,Yes,Sports,Yes,Public,Engineering,No,84,Medium,0
+17,3.5,1260,28,AP,18,Female,Hispanic,Bachelor's,57000,Yes,Music,No,Community,Arts,Yes,91,High,1
+18,2.9,940,20,Regular,22,Male,White,Associate's,34000,No,Debate,Yes,Public,Science,No,76,Low,0
+19,3.6,1320,30,AP,17,Female,Black,Master's,68000,Yes,Drama,No,Private,Business,Yes,94,High,1
+20,3.2,1140,23,Honors,20,Male,Hispanic,High School,42000,Yes,Volunteer,Yes,Community,Medicine,No,86,Medium,0
+21,3.7,1290,27,AP,18,Female,Asian,Bachelor's,53000,Yes,Sports,No,Public,Engineering, Yes, 
+21,3.7,1290,27,AP,18,Female,Asian,Bachelor's,53000,Yes,Sports,No,Public,Engineering,Yes,93,High,1
+22,3.4,1130,24,Honors,19,Male,White,High School,39000,No,Music,Yes,Private,Arts,No,84,Medium,0
+23,3.5,1210,25,AP,20,Female,Black,Master's,56000,Yes,Debate,No,Public,Science,Yes,89,High,1
+24,2.8,990,21,Regular,21,Male,Hispanic,Associate's,31000,Yes,Drama,Yes,Community,Business,Yes,79,Low,0
+25,3.9,1390,31,AP,18,Female,White,Doctorate,73000,No,Volunteer,No,Private,Medicine,Yes,97,High,1
+26,3.0,1090,22,Honors,19,Male,Asian,High School,47000,Yes,Sports,Yes,Public,Engineering,No,85,Medium,0
+27,3.6,1270,28,AP,18,Female,Hispanic,Bachelor's,58000,Yes,Music,No,Community,Arts,Yes,92,High,1
+28,2.9,950,20,Regular,22,Male,Black,Associate's,33000,No,Debate,Yes,Public,Science,No,77,Low,0
+29,3.7,1330,30,AP,17,Female,White,Master's,69000,Yes,Drama,No,Private,Business,Yes,95,High,1
+30,3.3,1150,23,Honors,20,Male,Hispanic,High School,43000,Yes,Volunteer,Yes,Community,Medicine,No,87,Medium,0
+31,3.8,1300,27,AP,18,Female,Asian,Bachelor's,54000,Yes,Sports,No,Public,Engineering,Yes,94,High,1
+32,3.5,1140,24,Honors,19,Male,White,High School,40000,No,Music,Yes,Private,Arts,No,85,Medium,0
+33,3.6,1220,25,AP,20,Female,Black,Master's,57000,Yes,Debate,No,Public,Science,Yes,90,High,1
+34,2.7,1000,21,Regular,21,Male,Hispanic,Associate's,32000,Yes,Drama,Yes,Community,Business,Yes,80,Low,0
+35,3.9,1400,31,AP,18,Female,White,Doctorate,74000,No,Volunteer,No,Private,Medicine,Yes,98,High,1
+36,3.1,1100,22,Honors,19,Male,Asian,High School,48000,Yes,Sports,Yes,Public,Engineering,No,86,Medium,0
+37,3.7,1280,28,AP,18,Female,Hispanic,Bachelor's,59000,Yes,Music,No,Community,Arts,Yes,93,High,1
+38,2.8,960,20,Regular,22,Male,Black,Associate's,34000,No,Debate,Yes,Public,Science,No,78,Low,0
+39,3.8,1340,30,AP,17,Female,White,Master's,70000,Yes,Drama,No,Private,Business,Yes,96,High,1
+40,3.2,1160,23,Honors,20,Male,Hispanic,High School,44000,Yes,Volunteer,Yes,Community,Medicine,No,88,Medium,0
+41,3.9,1310,27,AP,18,Female,Asian,Bachelor's,55000,Yes,Sports,No,Public,Engineering,Yes,95,High,1
+42,3.4,1150,24,Honors,19,Male,White,High School,41000,No,Music,Yes,Private,Arts,No,86,Medium,0
+43,3.5,1230,25,AP,20,Female,Black,Master's,580 ```csv
+43,3.5,1230,25,AP,20,Female,Black,Master's,58000,Yes,Debate,No,Public,Science,Yes,91,High,1
+44,2.8,1010,21,Regular,21,Male,Hispanic,Associate's,30000,Yes,Drama,Yes,Community,Business,Yes,79,Low,0
+45,3.6,1300,29,AP,19,Female,White,Doctorate,72000,No,Volunteer,No,Private,Medicine,Yes,95,High,1
+46,3.1,1120,24,Honors,20,Male,Asian,High School,46000,Yes,Sports,Yes,Public,Engineering,No,84,Medium,0
+47,3.4,1250,26,AP,18,Female,Hispanic,Bachelor's,57000,Yes,Music,No,Community,Arts,Yes,90,High,1
+48,2.9,940,20,Regular,22,Male,Black,Associate's,34000,No,Debate,Yes,Public,Science,No,76,Low,0
+49,3.7,1350,29,AP,17,Female,White,Master's,65000,Yes,Drama,No,Private,Business,Yes,95,High,1
+50,3.2,1140,23,Honors,20,Male,Hispanic,High School,42000,Yes,Volunteer,Yes,Community,Medicine,No,86,Medium,0
+51,3.8,1300,27,AP,18,Female,Asian,Bachelor's,54000,Yes,Sports,No,Public,Engineering,Yes,94,High,1
+52,3.5,1140,24,Honors,19,Male,White,High School,40000,No,Music,Yes,Private,Arts,No,85,Medium,0
+53,3.6,1220,25,AP,20,Female,Black,Master's,57000,Yes,Debate,No,Public,Science,Yes,90,High,1
+54,2.7,1000,21,Regular,21,Male,Hispanic,Associate's,32000,Yes,Drama,Yes,Community,Business,Yes,80,Low,0
+55,3.9,1400,31,AP,18,Female,White,Doctorate,74000,No,Volunteer,No,Private,Medicine,Yes,98,High,1
+56,3.1,1100,22,Honors,19,Male,Asian,High School,48000,Yes,Sports,Yes,Public,Engineering,No,86,Medium,0
+57,3.7,1280,28,AP,18,Female,Hispanic,Bachelor's,59000,Yes,Music,No,Community,Arts,Yes,93,High,1
+58,2.8,960,20,Regular,22,Male,Black,Associate's,34000,No,Debate,Yes,Public,Science,No,78,Low,0
+59,3.8,1340,30,AP,17,Female,White,Master's,70000,Yes,Drama,No,Private,Business,Yes,96,High,1
+60,3.2,1160,23,Honors,20,Male,Hispanic,High School,44000,Yes,Volunteer,Yes,Community,Medicine,No,88,Medium,0
+61,3.9,1310,27,AP,18,Female,Asian,Bachelor's,55000,Yes,Sports,No,Public,Engineering,Yes,95,High,1
+62,3.4,1150,24,Honors,19,Male,White,High School,41000,No,Music,Yes,Private,Arts,No,86,Medium,0
+63,3.5,1230,25,AP,20,Female,Black,Master's,58000,Yes,Debate,No,Public,Science,Yes,91,High,1
+64,2.8,1010,21,Regular,21,Male,Hispanic,Associate's,30000,Yes,Drama,Yes,Community,Business,Yes,79,Low,0
+65,3.6,1300,29,AP,19,Female,White,Doctorate,72000,No,Volunteer,No,Private,Medicine, Yes, 
+65,3.6,1300,29,AP,19,Female,White,Doctorate,72000,No,Volunteer,No,Private,Medicine,Yes,95,High,1
+66,3.1,1120,24,Honors,20,Male,Asian,High School,46000,Yes,Sports,Yes,Public,Engineering,No,84,Medium,0
+67,3.4,1250,26,AP,18,Female,Hispanic,Bachelor's,57000,Yes,Music,No,Community,Arts,Yes,90,High,1
+68,2.9,940,20,Regular,22,Male,Black,Associate's,34000,No,Debate,Yes,Public,Science,No,76,Low,0
+69,3.7,1350,29,AP,17,Female,White,Master's,65000,Yes,Drama,No,Private,Business,Yes,95,High,1
+70,3.2,1140,23,Honors,20,Male,Hispanic,High School,42000,Yes,Volunteer,Yes,Community,Medicine,No,86,Medium,0
+71,3.8,1300,27,AP,18,Female,Asian,Bachelor's,54000,Yes,Sports,No,Public,Engineering,Yes,94,High,1
+72,3.5,1140,24,Honors,19,Male,White,High School,40000,No,Music,Yes,Private,Arts,No,85,Medium,0
+73,3.6,1220,25,AP,20,Female,Black,Master's,57000,Yes,Debate,No,Public,Science,Yes,90,High,1
+74,2.7,1000,21,Regular,21,Male,Hispanic,Associate's,32000,Yes,Drama,Yes,Community,Business,Yes,80,Low,0
+75,3.9,1400,31,AP,18,Female,White,Doctorate,74000,No,Volunteer,No,Private,Medicine,Yes,98,High,1
+76,3.1,1100,22,Honors,19,Male,Asian,High School,48000,Yes,Sports,Yes,Public,Engineering,No,86,Medium,0
+77,3.7,1280,28,AP,18,Female,Hispanic,Bachelor's,59000,Yes,Music,No,Community,Arts,Yes,93,High,1
+78,2.8,960,20,Regular,22,Male,Black,Associate's,34000,No,Debate,Yes,Public,Science,No,78,Low,0
+79,3.8,1340,30,AP,17,Female,White,Master's,70000,Yes,Drama,No,Private,Business,Yes,96,High,1
+80,3.2,1160,23,Honors,20,Male,Hispanic,High School,44000,Yes,Volunteer,Yes,Community,Medicine,No,88,Medium,0
+81,3.9,1310,27,AP,18,Female,Asian,Bachelor's,55000,Yes,Sports,No,Public,Engineering,Yes,95,High,1
+82,3.4,1150,24,Honors,19,Male,White,High School,41000,No,Music,Yes,Private,Arts,No,86,Medium,0
+83,3.5,1230,25,AP,20,Female,Black,Master's,58000,Yes,Debate,No,Public,Science,Yes,91,High,1
+84,2.8,1010,21,Regular,21,Male,Hispanic,Associate's,30000,Yes,Drama,Yes,Community,Business,Yes,79,Low,0
+85,3.6,1300,29,AP,19,Female,White,Doctorate,72000,No,Volunteer,No,Private,Medicine,Yes,95,High,1
+86,3.1,1120,24,Honors,20,Male,Asian,High School,46000,Yes,Sports,Yes,Public,Engineering,No,84,Medium,0
+87,3.4,1250,26,AP,18,Female,Hispanic,Bachelor's
+87,3.4,1250,26,AP,18,Female,Hispanic,Bachelor's,57000,Yes,Music,No,Community,Arts,Yes,90,High,1
+88,2.9,940,20,Regular,22,Male,Black,Associate's,34000,No,Debate,Yes,Public,Science,No,76,Low,0
+89,3.7,1350,29,AP,17,Female,White,Master's,65000,Yes,Drama,No,Private,Business,Yes,95,High,1
+90,3.2,1140,23,Honors,20,Male,Hispanic,High School,42000,Yes,Volunteer,Yes,Community,Medicine,No,86,Medium,0
+91,3.8,1300,27,AP,18,Female,Asian,Bachelor's,54000,Yes,Sports,No,Public,Engineering,Yes,94,High,1
+92,3.5,1140,24,Honors,19,Male,White,High School,40000,No,Music,Yes,Private,Arts,No,85,Medium,0
+93,3.6,1220,25,AP,20,Female,Black,Master's,57000,Yes,Debate,No,Public,Science,Yes,90,High,1
+94,2.7,1000,21,Regular,21,Male,Hispanic,Associate's,32000,Yes,Drama,Yes,Community,Business,Yes,80,Low,0
+95,3.9,1400,31,AP,18,Female,White,Doctorate,74000,No,Volunteer,No,Private,Medicine,Yes,98,High,1
+96,3.1,1100,22,Honors,19,Male,Asian,High School,48000,Yes,Sports,Yes,Public,Engineering,No,86,Medium,0
+97,3.7,1280,28,AP,18,Female,Hispanic,Bachelor's,59000,Yes,Music,No,Community,Arts,Yes,93,High,1
+98,2.8,960,20,Regular,22,Male,Black,Associate's,34000,No,Debate,Yes,Public,Science,No,78,Low,0
+99,3.8,1340,30,AP,17,Female,White,Master's,70000,Yes,Drama,No,Private,Business,Yes,96,High,1
+100,3.2,1160,23,Honors,20,Male,Hispanic,High School,44000,Yes,Volunteer,Yes,Community,Medicine,No,88,Medium,0
